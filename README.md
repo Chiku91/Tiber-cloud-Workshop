@@ -1,4 +1,4 @@
-# End-to-End-Medical-Chatbot-using-Llama-2
+# Tiber Cloud Workshop Project
 This projects consists of a medical chatbot that answers all your medical queries.It uses llama-2, pinecone and other advanced concepts.It will answer all questions related to topics/concepts related to the book you will upload as data i.e.it takes pdf data as input and produces responses of queries related to it.
 
 Create a .env file in the root directory and add your Pinecone credentials as follows:
